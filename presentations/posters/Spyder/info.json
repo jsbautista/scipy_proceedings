@@ -1,1 +1,16 @@
-
+{
+  "title": "Spyder and the NumFOCUS SDG program: better UI/UX, improved code completion and lessons learned",
+  "authors": [
+    {
+      "name": "Daniel Althviz Moré",
+      "affiliation": "first author's affiliation",
+      "orcid": "0000-0000-0000-0000"
+    },
+    {
+      "name": "Juan Sebastian Bautista Rojas",
+      "affiliation": "second author's affiliation",
+      "orcid": "0000-0000-0000-0001"
+    }
+  ],
+  "description": "The presentation discusses the improvements in UI/UX and code completion in Spyder, achieved through the NumFOCUS Small Development Grants program. It covers enhancements in cell support, creation of specific IPython consoles, and improvements to the Variable Explorer. Additionally, it shares the lessons learned during the planning and execution of proposals."
+}
